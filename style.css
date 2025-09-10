@@ -1,0 +1,17 @@
+body{
+    background-color: #f4f4f4;
+}
+
+h1{
+    text-align: center;
+}
+ul{
+    font-size: 20px;
+    color: brown;
+}
+
+img{
+    padding: 10px;
+    border: 2px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.4);
+}
